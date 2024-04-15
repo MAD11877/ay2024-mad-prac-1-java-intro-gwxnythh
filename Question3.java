@@ -18,6 +18,6 @@ public class Question3
         
     int result = number * number;
         
-    System.out.println("The square of the integer " + number + "is: " + result);
+    System.out.println(result);
   }
 }
